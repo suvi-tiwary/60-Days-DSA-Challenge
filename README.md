@@ -1,5 +1,6 @@
 # 60-Days-DSA-Challenge
 
-Array and all sorting 
+<h1>Array and all sorting </h1>
+<br>
 1 Binary sort
-2 
+<br>
