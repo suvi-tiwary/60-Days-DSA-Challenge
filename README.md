@@ -1,6 +1,12 @@
 # 60-Days-DSA-Challenge
 
-<h3>Array and all sorting </h3>
 <br>
-1 Binary sort
+1 Binary sort 
+<br>
+peak element in the mountain 
+<br>
+single element in the sorted array
+<br>
+rotated sorted array
+
 <br>
